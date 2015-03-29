@@ -10,7 +10,7 @@ public class fireanimation : StateMachineBehaviour
 		if(Input.GetButtonDown("Fire1"))
 		{
 
-				animator.SetBool("Shoot", true);
+				animator.SetTrigger("Shoot");
 
 		} 
 	}
