@@ -21,3 +21,33 @@ Cmd: compileSnippet
   api=0 type=0 insize=934 outsize=6165 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=934 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
+Cmd: preprocess
+  insize=1772 outsize=563 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1511 outsize=1542 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1511 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1329 outsize=1083 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1329 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1325 outsize=1078 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1325 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1325 outsize=1078 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1325 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1329 outsize=1083 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1329 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1317 outsize=1068 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1317 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1327 outsize=1078 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1327 outsize=6 kw= ok=1
