@@ -131,3 +131,11 @@ Cmd: compileSnippet
   api=0 type=0 insize=938 outsize=6362 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=938 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=6481 outsize=16595 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6481 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=723 outsize=414 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=723 outsize=6 kw= ok=1
