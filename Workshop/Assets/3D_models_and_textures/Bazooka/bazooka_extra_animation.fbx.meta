@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: d260ba0c977ad4a999d20684990a6d88
+timeCreated: 1427643769
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm_gun:Bip001 Footsteps
+    100002: arm_gun:Bip001 R Finger0
+    100004: arm_gun:Bip001 R Finger01
+    100006: arm_gun:Bip001 R Finger0Nub
+    100008: arm_gun:Bip001 R Finger1
+    100010: arm_gun:Bip001 R Finger11
+    100012: arm_gun:Bip001 R Finger1Nub
+    100014: arm_gun:Bip001 R Finger2
+    100016: arm_gun:Bip001 R Finger21
+    100018: arm_gun:Bip001 R Finger2Nub
+    100020: arm_gun:Bip001 R Forearm
+    100022: arm_gun:Bip001 R Hand
+    100024: arm_gun:Bip001 R UpperArm
+    100026: Bazooka1
+    100028: //RootNode
+    400000: arm_gun:Bip001 Footsteps
+    400002: arm_gun:Bip001 R Finger0
+    400004: arm_gun:Bip001 R Finger01
+    400006: arm_gun:Bip001 R Finger0Nub
+    400008: arm_gun:Bip001 R Finger1
+    400010: arm_gun:Bip001 R Finger11
+    400012: arm_gun:Bip001 R Finger1Nub
+    400014: arm_gun:Bip001 R Finger2
+    400016: arm_gun:Bip001 R Finger21
+    400018: arm_gun:Bip001 R Finger2Nub
+    400020: arm_gun:Bip001 R Forearm
+    400022: arm_gun:Bip001 R Hand
+    400024: arm_gun:Bip001 R UpperArm
+    400026: Bazooka1
+    400028: //RootNode
+    2300000: Bazooka1
+    3300000: Bazooka1
+    4300000: Bazooka1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
