@@ -67,6 +67,18 @@ ModelImporter:
     4300018: Corner_ShadowBlocker
     4300020: Corner_ShadowBlocker2
     4300022: Corner_Snap_Set
+    6400000: Cage
+    6400002: Corner_ShadowBlocker
+    6400004: Corner_ShadowBlocker2
+    6400006: Corner_Snap_Set
+    6400008: Panel_Ceiling_Corner2
+    6400010: Panel_Floor_Corner1
+    6400012: Panel_Wall_Straight_CurvedLower2
+    6400014: Panel_Wall_Straight_CurvedLower3
+    6400016: Panel_Wall_Straight_CurvedUpper2
+    6400018: Panel_Wall_Straight_CurvedUpper3
+    6400020: Panel_Wall_Straight_Flat_A1
+    6400022: Panel_Wall_Straight_Flat_B1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -89,7 +101,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
